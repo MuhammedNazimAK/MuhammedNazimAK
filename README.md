@@ -3,7 +3,7 @@
 </div>
 
 
-# <div align="center">👨‍💻 Who am I?</div>
+# <div align="center">👨‍💻 About me?</div>
 
 <div align="center">
   <p style="font-family: 'Fira Code', monospace; font-size: 16px; line-height: 1.6;">
@@ -58,23 +58,6 @@
 
 ---
 
-# <div align="center">🚀 Featured Projects</div>
-
-<div align="center" style="font-family: 'JetBrains Mono', monospace;">
-  
-  Check out my pinnned repositories below for some of my best work! Each project demonstrates my expertise in full-stack development using:
-  
-  • MEAN Stack Applications
-  • RESTful APIs
-  • Clean Architecture
-  • Responsive Design
-  • Database Design
-  
-  💡 More projects available on my [GitHub Profile](https://github.com/muhammednazimak)
-</div>
-
----
-
 # <div align="center">📫 Let's Connect!</div>
 
 <div align="center" style="margin: 20px 0;">
@@ -82,8 +65,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
