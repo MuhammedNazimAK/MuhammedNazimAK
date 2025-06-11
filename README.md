@@ -7,16 +7,16 @@
 
 <div align="center">
   <p style="font-family: 'Fira Code', monospace; font-size: 16px; line-height: 1.6;">
-    Hey there! I'm a passionate full-stack developer with a love for crafting elegant solutions to complex problems. My expertise lies in JavaScript, TypeScript, and the MEAN stack ecosystem. I specialize in:
+    Hey there! I'm a full-stack developer who enjoys solving real-world problems through clean, efficient code. I work primarily with JavaScript and TypeScript, my toolkit spans multiple stacks and technologies, including:
 
-    • Building scalable applications using Clean Architecture
-    • Creating responsive and intuitive user interfaces
-    • Implementing robust backend solutions
+    • Scalable backend systems with Node.js, Express, and MongoDB<br>
+    • Dynamic frontends using React, Angular, and modern UI libraries<br>
+    • Maintainable architectures built with Clean Code principles<br>
 
-    I believe in continuous learning and pushing the boundaries of what's possible in web development.
-    Let's collaborate and build something amazing together! ✨
+    I’m driven by curiosity, continuous learning, and a strong focus on user experience. Let’s build something meaningful together. ✨
   </p>
 </div>
+
 
 ---
 
@@ -28,6 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
