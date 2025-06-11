@@ -13,7 +13,8 @@
     • Dynamic frontends using React, Angular, and modern UI libraries<br>
     • Maintainable architectures built with Clean Code principles<br>
 
-    I’m driven by curiosity, continuous learning, and a strong focus on user experience. Let’s build something meaningful together. ✨
+    I believe in continuous learning and pushing the boundaries of what's possible in web development.
+    Let's collaborate and build something amazing together! ✨
   </p>
 </div>
 
