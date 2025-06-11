@@ -9,9 +9,9 @@
   <p style="font-family: 'Fira Code', monospace; font-size: 16px; line-height: 1.6;">
     Hey there! I'm a full-stack developer who enjoys solving real-world problems through clean, efficient code. I work primarily with JavaScript and TypeScript, my toolkit spans multiple stacks and technologies, including:
 
-    • Scalable backend systems with Node.js, Express, and MongoDB<br>
-    • Dynamic frontends using React, Angular, and modern UI libraries<br>
-    • Maintainable architectures built with Clean Code principles<br>
+    • Scalable backend systems with Node.js, Express, and MongoDB
+    • Dynamic frontends using React, Angular, and modern UI libraries
+    • Maintainable architectures built with Clean Code principles
 
     I believe in continuous learning and pushing the boundaries of what's possible in web development.
     Let's collaborate and build something amazing together! ✨
@@ -28,8 +28,8 @@
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
