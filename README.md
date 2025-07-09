@@ -3,18 +3,17 @@
 </div>
 
 
-# <div align="center">👨‍💻 About me?</div>
+# <div align="center">👨‍💻 About Me</div>
 
 <div align="center">
-  <p style="font-family: 'Fira Code', monospace; font-size: 16px; line-height: 1.6;">
-    Hey there! I'm a full-stack developer who enjoys solving real-world problems through clean, efficient code. I work primarily with JavaScript and TypeScript, my toolkit spans multiple stacks and technologies, including:
+  <p style=font-size: 16px; line-height: 1.6;>
+    I'm a full stack developer with a focus on backend systems. I mostly work with JavaScript and TypeScript, and build full stack applications that are functional and easy to maintain.
 
-    • Scalable backend systems with Node.js, Express, and MongoDB
-    • Dynamic frontends using React, Angular, and modern UI libraries
-    • Maintainable architectures built with Clean Code principles
+    • Backend systems using Node.js, Express, and MongoDB  
+    • Full stack apps with React, Next.js, and TailwindCSS  
+    • Comfortable with Git, cloud deployments, and working with real project flows  
 
-    I believe in continuous learning and pushing the boundaries of what's possible in web development.
-    Let's collaborate and build something amazing together! ✨
+    I keep my code clear and avoid unnecessary complexity. Always working to improve how things are built and deployed.
   </p>
 </div>
 
@@ -29,7 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
