@@ -28,16 +28,6 @@ I keep my code clear and avoid unnecessary complexity. Always working to improve
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
----
-
-## <div align="center">GitHub Analytics</div>
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=muhammednazimak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="30%" src="https://streak-stats.demolab.com/?user=muhammednazimak&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammednazimak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
 ---
 
 ## <div align="center">Let's Connect!</div>
