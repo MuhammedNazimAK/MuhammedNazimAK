@@ -30,14 +30,8 @@ I keep my code clear and avoid unnecessary complexity. Always working to improve
 
 ---
 
-## <div align="center">Let's Connect!</div>
+## Let's Connect!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammed-nazim-780130283/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-nazim-780130283/)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
