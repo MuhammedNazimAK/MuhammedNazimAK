@@ -1,11 +1,9 @@
 ## About Me
 
-I'm a full stack developer with a focus on backend systems. I mostly work with JavaScript and TypeScript.
+I'm a Software Engineer with a focus on backend systems. I work with JavaScript and TypeScript.
 
 • Backend systems using Node.js, Express and MongoDB  
 • Frontend apps with React and TailwindCSS
-
-I keep my code clear and avoid unnecessary complexity. Always working to improve how things are built and deployed.
 
 ---
 
